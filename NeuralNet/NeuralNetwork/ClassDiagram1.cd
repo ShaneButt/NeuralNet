@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleNetwork.Axon" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Axon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleNetwork.Dendrite" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACCAEAAggAAAAAAAAAAA=</HashCode>
+      <FileName>Dendrite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleNetwork.Layer" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Layer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleNetwork.NeuralNetwork" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAECEAABABAAAAAAAAAAAAAAACADAAAAA=</HashCode>
+      <FileName>Network.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleNetwork.Program" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleNetwork.Soma" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
